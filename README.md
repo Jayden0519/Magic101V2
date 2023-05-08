@@ -1,4 +1,3 @@
 # Magic101V2
 
-
-//welcome to magic 101 where i struggled at first but eventually ended up getting the hang of all this mess so glad it worked. to be continued
+Magic 101 is a refresher of a basic introduction to java the rubric consisting of a brain method, getters, setting, and a toString
