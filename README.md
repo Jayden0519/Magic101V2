@@ -1,5 +1,5 @@
 # Magic101V2
-Project Name: MyFirstApp 
+Project Name: Magic101V2 
 Class: Advanced Java Topics
 Data: 5/18/23
 Date Submitted: 8/22/22
